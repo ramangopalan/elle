@@ -15,9 +15,9 @@ already).
 Elle is influenced by the eLua project. All motivation and support (to
 me, personally) comes from SimpleMachines, Italy. Happy hacking!
 
-![Elle: Right after boot](Debug/elle-boot.jpg)
-![Elle: 20x4 LCD for stdout, PS/2 for stdin](Debug/elle-ps2-1.jpg)
-![GNU ed: Skull (N) prompt](Debug/elle-ed-skull.jpg)
+![Elle: Right after boot](Docs/elle-boot.jpg)
+![Elle: 20x4 LCD for stdout, PS/2 for stdin](Docs/elle-ps2-1.jpg)
+![GNU ed: Skull (N) prompt](Docs/elle-ed-skull.jpg)
 
 In case you were wondering: I coined "GNU mec!" (see pictures) as a
 pun in a lab in France for fun - for - all programs are GNU Made.
